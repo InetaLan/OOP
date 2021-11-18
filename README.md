@@ -1,5 +1,5 @@
-# v0.2
+# v1.0_1 strategija.
 
-Programos kodas yra faile ***v0.2.cpp***, čia duomenys saugomi naudojant vektorius.
-Nebėra *rankinio* pildymo funkcijos, visi duomenys nuskaitomi iš failo ***studentai100000.txt.txt*** metode read_from_file ir išvedami į failą ***rezultatai.txt***
+*Spartos testavimas naudojant LIST tipo konteinerį:
+![image](https://user-images.githubusercontent.com/91073106/142508449-42a32e21-a7a2-4a16-a430-a7616fed879d.png)
 
